@@ -1,4 +1,4 @@
-import "./App.css";
+/*import "./App.css";
 
 function App() {
   const skills = {
@@ -224,6 +224,17 @@ function App() {
           </div>
         </section>
       </main>
+    </div>
+  );
+}
+
+export default App;
+*/
+function App() {
+  return (
+    <div style={{ padding: "40px", fontFamily: "Arial" }}>
+      <h1>Mahmoud Portfolio Test</h1>
+      <p>If you can see this, GitHub Pages is working.</p>
     </div>
   );
 }
